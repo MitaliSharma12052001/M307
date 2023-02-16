@@ -1,4 +1,4 @@
-Class notes for M307.
+Class notes for M308.
 
 Book: Dummit/Foote
 
